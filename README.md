@@ -136,18 +136,6 @@ Among the tested models, **Random Forest** provided the strongest overall perfor
 
 ---
 
-## 📁 Project Structure
-
-```text
-Hotel-Reservations-Analysis/
-│
-├── Project_2_(SIC_AI_Team_11).ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 👩‍💻 Team
 
 **Samsung Innovation Campus – AI Program**
